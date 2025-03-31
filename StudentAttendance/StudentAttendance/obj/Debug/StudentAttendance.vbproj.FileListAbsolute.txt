@@ -1,0 +1,15 @@
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe.config
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.pdb
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.xml
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.AssemblyReference.cache
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Form1.resources
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Resources.resources
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.GenerateResource.cache
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.CoreCompileInputs.cache
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentA.51A1B05A.Up2Date
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.exe
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.xml
+C:\Users\Marilyn\source\repos\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.pdb
