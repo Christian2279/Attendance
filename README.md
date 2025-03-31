@@ -1,4 +1,4 @@
-# Attendance
+# Student System
 Christian
 Jezra Cano
 Rysah Florendo
