@@ -3,4 +3,4 @@ Christian
 Jezra Cano
 Rysah Florendo
 Julia Buado
-Anabel Tropa
+Annabelle Tropa
